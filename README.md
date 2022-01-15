@@ -1,16 +1,17 @@
 ### Hi there 👋
+ -:round_pushpin:About Me
+		
+ -I am a  Full stack Developer  with a penchant for design and storytelling. I am passionate about enhancing user experience and maximizing user interface.
 
-<!--
-**Mariyathomasnld/Mariyathomasnld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my portfolio that can translate my skills as a developer and a visual narrator.
 
-Here are some ideas to get you started:
+Languages & Tools
+- JavaScript
+- HTML
+- CSS
+- Node.js
+- React -Redux
+- React Native
+- GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
